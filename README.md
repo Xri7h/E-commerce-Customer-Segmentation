@@ -13,7 +13,8 @@ Turning e-commerce customer data into actionable segments using RFM, SQL, Python
 ## E-Commerce Customer Segmentation 
 
 This project helps you understand "who the customers are, how they behave, and where the business should focus its marketing efforts".  
-The goal wasn't just to create segments, but to turn customer data into something a business can actually use retain valuable customers, identify opportunities, and win back customers who may be slipping away.
+The goal wasn't just to create segments, but to turn customer data into something a business can actually use retain valuable customers, identify opportunities, and win back customers who may be slipping away.  
+RFM scores use fixed business thresholds rather than quantiles, keeping segment definitions consistent as the customer base grows.
 
 
 ## Insights
