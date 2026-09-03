@@ -6,10 +6,13 @@ Turning e-commerce customer data into actionable segments using RFM, SQL, Python
 
 <img width="580" height="325" alt="image" src="https://github.com/user-attachments/assets/b3d37783-d298-4999-841e-ad7755f54138" />
 
+<img width="575" height="326" alt="image" src="https://github.com/user-attachments/assets/d7a04b93-71fd-4497-8e17-13e47ef32dd0" />
+
+
 
 ## E-Commerce Customer Segmentation 
 
-This project helps you understand "who the customers are, how they behave, and where the business should focus its marketing efforts".
+This project helps you understand "who the customers are, how they behave, and where the business should focus its marketing efforts".  
 The goal wasn't just to create segments, but to turn customer data into something a business can actually use retain valuable customers, identify opportunities, and win back customers who may be slipping away.
 
 
