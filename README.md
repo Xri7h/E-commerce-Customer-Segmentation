@@ -22,7 +22,7 @@ Lost Customers are 12% of the base but only 5% of revenue that's low cost to los
 Python |Pandas |MySQL |SQL |Power BI |DAX
 
 ## How to Use This Repository
-The Jupyter Notebook CustSeg.ipynb contains all the Python code for the analysis.
-The CustRFMqueries.sql file contains the advanced SQL query used for data transformation.
+The Jupyter Notebook CustSeg.ipynb contains all the Python code for the analysis.  
+The CustRFMqueries.sql file contains the advanced SQL query used for data transformation.  
 The customer_segments_final.csv dataset is provided to allow for easy reproduction of the Power BI dashboard.
 
