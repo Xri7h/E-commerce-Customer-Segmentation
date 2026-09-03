@@ -11,20 +11,17 @@ E-Commerce Customer Segmentation
 This project helps you understand "who the customers are, how they behave, and where the business should focus its marketing efforts".
 The goal wasn't just to create segments, but to turn customer data into something a business can actually use retain valuable customers, identify opportunities, and win back customers who may be slipping away.
 
-Using customer "Recency, Frequency, and Monetary Value (RFM)", divided 4,338 customers into five meaningful groups:
-Champions
-Loyal Customers
-Potential Customers
-At Risk
-Lost Customers
 
-Used Pandas for data cleaning and validation, MySQL for RFM scoring and customer segmentation, and Power BI to turn the analysis into an interactive dashboard.
-
-The dashboard has 3 sections:
-Executive Overview – overall customer and revenue picture
-RFM Analysis – customer behavior and value
-Customer Action Plan – what the business can do with each segment
+Insights
+Champions are 22% of customers but drive 67% of revenue (₹6.0M of ₹8.91M).
+At Risk customers hold ₹1.0M in revenue (31% of the base) i.e. biggest win-back opportunity.
+Lost Customers are 12% of the base but only 5% of revenue that's low cost to lose.
 
 Tools used 
 Python |Pandas |MySQL |SQL |Power BI |DAX
+
+How to Use This Repository
+The Jupyter Notebook CustSeg.ipynb contains all the Python code for the analysis.
+The CustRFMqueries.sql file contains the advanced SQL query used for data transformation.
+The customer_segments_final.csv dataset is provided to allow for easy reproduction of the Power BI dashboard.
 
