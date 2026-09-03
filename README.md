@@ -1,5 +1,7 @@
 # Customer Segmentation by RFM Analysis
 Turning e-commerce customer data into actionable segments using RFM, SQL, Python, and Power BI.
+<img width="580" height="325" alt="image" src="https://github.com/user-attachments/assets/b3d37783-d298-4999-841e-ad7755f54138" />
+
 
 E-Commerce Customer Segmentation 
 
