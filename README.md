@@ -22,4 +22,4 @@ Customer Action Plan – what the business can do with each segment
 
 Tools used 
 Python |Pandas |MySQL |SQL |Power BI |DAX
-The goal wasn't just to create segments, but to turn customer data into something a business can actually use retain valuable customers, identify opportunities, and win back customers who may be slipping away.
+
