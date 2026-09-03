@@ -38,7 +38,8 @@ WHERE Recency < 0
    OR MonetaryValue <= 0;
    
 #if no duplicate,emptyy row received 
-   SELECT
+  
+    SELECT
     CustomerID,
     COUNT(*) AS records
 FROM customer_rfm
@@ -120,6 +121,8 @@ SELECT
 #rfm score
     (R_Score + F_Score + M_Score) AS RFM_Score
 FROM score_base;
+#Fixed thresholds used intentionally instead of quantiles (NTILE),so segment definitions stay stable over time and aren't redefined every time the customer base shifts.
+
 
 #checking rfm
 SELECT *
