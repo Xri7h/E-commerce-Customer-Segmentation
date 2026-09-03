@@ -15,9 +15,11 @@ The goal wasn't just to create segments, but to turn customer data into somethin
 
 ## Insights
 Champions are 22% of customers but drive 67% of revenue (₹6.0M of ₹8.91M).
-## 
+
+
 At Risk customers hold ₹1.0M in revenue (31% of the base) i.e. biggest win-back opportunity.
-## 
+
+
 Lost Customers are 12% of the base but only 5% of revenue that's low cost to lose.
 
 ## Tools used 
